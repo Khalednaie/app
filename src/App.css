@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+.App{
+  height: 899px;
+  background-image: url(../src/part/img/pexels2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:100%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
