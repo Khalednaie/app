@@ -8,22 +8,9 @@ function App() {
 		<div className="App">
 			<br />
 			<Nav />
-			<hr />
+			<br />
 			<Body id="home" />
 			<hr />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
 			<br />
 			<Card id="about" />
 			<hr />
