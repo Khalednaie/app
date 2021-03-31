@@ -9,12 +9,12 @@ function App() {
 	return (
 		<div className="App">
 			<br />
-			<Nav />
+			<Nav id="home" data-bs-target="#navbar-example2" />
 			<br />
-			<Body id="home" />
+			<Body id="body" data-bs-target="#navbar-example2" />
 			<hr />
 			<br />
-			<Card id="about" />
+			<Card id="about" data-bs-target="#navbar-example2" />
 			<hr />
 			<br />
 			<div id="conuect" data-bs-target="#navbar-example2" style={{ backgroundColor: '#b6b9a2', height: '43vh' }}>

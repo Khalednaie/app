@@ -7,7 +7,7 @@ function Nav() {
 		<div id="navbar-example2" className="navbar navbar-light bg-light px-3">
 			<ul className="nav nav-pills">
 				<li className="nav-item">
-					<a className="nav-link" href="#home">
+					<a className="nav-link" href="#body">
 						Home
 					</a>
 				</li>

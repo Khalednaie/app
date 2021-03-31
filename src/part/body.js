@@ -11,6 +11,14 @@ export default function Body() {
 	return (
 		<div className="container-fluid" style={{ backgroundColor: '#bfbfa2c9' }}>
 			<div className="row">
+				<div className="col">
+					<h1 className="textariea">Hi</h1>
+					<h2 className="textariea">I am Khaled Ali,full stack web developer</h2>
+					<h4 className="textariea">I learned the code through RBK & Anera java script</h4>
+					<h4 className="textariea">
+						in frontend react.js ,bootstrap and material-ui and backend node.Js, Mysql and mongoDB
+					</h4>
+				</div>
 				<div className="col-sm">
 					<img className="img" src={img1} />
 					<img className="img2" src={img2} />
@@ -20,14 +28,6 @@ export default function Body() {
 					<img className="img6" src={img6} />
 					<img className="img7" src={img7} />
 					{/* <img className="img6" src={} /> */}
-				</div>
-				<div className="col">
-					<h1 className="textariea">Hi</h1>
-					<h2 className="textariea">I am Khaled Ali,full stack web developer</h2>
-					<h4 className="textariea">I learned the code through RBK & Anera java script</h4>
-					<h4 className="textariea">
-						in frontend react.js ,bootstrap and material-ui and backend node.Js, Mysql and mongoDB
-					</h4>
 				</div>
 			</div>
 		</div>
